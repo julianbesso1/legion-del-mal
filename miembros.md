@@ -22,4 +22,6 @@
 20. Lady Shiva
 21. Giganta
 22. Deadshot
+23. Scarecrow
+24. Iceman
 23. Two Faces
