@@ -24,4 +24,4 @@
 22. Deadshot
 23. Scarecrow
 24. Iceman
-25. Two Faces
+23. Two Faces
